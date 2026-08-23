@@ -1,4 +1,4 @@
-<img width="445" height="409" alt="Icon1" src="https://github.com/user-attachments/assets/4f73e61b-1a91-43bb-8973-89c4ef541a08" /> 
+<img width="445" height="409" alt="Icon1v2" src="https://github.com/user-attachments/assets/8ddae676-467d-45a7-9699-9764d875019c" />
 
 Hello all!
 I have been very much anticipating the release FF7 Revelation, so I wanted to relive the past of the OG FF7. 
