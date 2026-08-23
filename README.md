@@ -26,4 +26,5 @@ Known issues:
 This is still actively being developed so sit tight as I try to add some features, but I am by no means a great coder with C. If you do decide to use this, please credit me
 Be the one to fight further modders!
 
-<img width="1408" height="768" alt="Icon2" src="https://github.com/user-attachments/assets/8fa8ecf7-d82b-487e-8ad0-7fda103e362d" />
+
+<img width="1407" height="685" alt="Icon2" src="https://github.com/user-attachments/assets/25d075a8-717c-4151-a296-3aef79223498" />
