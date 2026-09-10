@@ -110,6 +110,7 @@ namespace Kimera2.Models
         public List<bool> GroupLoadSuccess = new();
 		public bool IsWeapon { get; set;}
         public List<string> LoadWarnings = new();
+        public List<string> RsdTextureNames { get; set; } = new List<string>();
         public string FileName = "";
 		public string OriginalFilePath = ""; //Makes a copy of files when saving
 		// Editing where P file parts move/transforms (offset within bone)
